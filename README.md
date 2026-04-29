@@ -44,12 +44,12 @@ I build scalable backend systems, clean APIs, and reliable applications with a f
 
 ### 🚀 NOTES API
 A backend service that allows users to create, read, update, delete, search, and organize personal or shared notes securely.  
-🔗 [Live Demo]((https://github.com/Obed272/NOTES-API)) | 📂 [NOTES-API
+[Live Demo]((https://github.com/Obed272/NOTES-API)) | 📂 [NOTES-API
 ]([#](https://github.com/Obed272/NOTES-API.git))
 
 ### 🚀 BLOG API
 A backend service that manages blog content by allowing users to create, edit, publish, delete, and retrieve posts, comments, categories, and authors.  
-🔗 [Live Demo]([#](https://github.com/Obed272/Express-Mongo-Crud-Blog-Api)) | 📂 [Express-Mongo-Crud-Blog-Api]((https://github.com/Obed272/Express-Mongo-Crud-Blog-Api.git))
+ [Live Demo]([#](https://github.com/Obed272/Express-Mongo-Crud-Blog-Api)) | 📂 [Express-Mongo-Crud-Blog-Api]((https://github.com/Obed272/Express-Mongo-Crud-Blog-Api.git))
 
 ---
 
