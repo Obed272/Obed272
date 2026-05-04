@@ -57,7 +57,7 @@ A backend service that manages blog content by allowing users to create, edit, p
 
 - 💼 LinkedIn: [Nwadinobi Obed](https://www.linkedin.com/in/nwadinobi-obed-05282932b/)
 - GitHub: [Nwadinobi Obed](https://github.com/Obed272/)
-- 📧 Email: [Nwadinobi Obed](macdonald098765@gmail.com)
+- 📧 Email: [macdonald098765@gmail.com](#)
 
 ---
 
